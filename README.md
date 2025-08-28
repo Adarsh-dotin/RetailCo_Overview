@@ -30,6 +30,12 @@ I built a **Sales Overview Dashboard** from scratch to understand the fundamenta
 
 ---
 
+## 📷 Dashboard Preview
+![Dashboard Screenshot](RetailCo_Overview.JPG)  
+*(Replace with your actual screenshot file)*
+
+---
+
 ## 🎯 Learning Goals
 - Understand **Power BI interface & workflow**
 - Create a **star schema** and manage relationships
